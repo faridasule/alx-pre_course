@@ -1,1 +1,1 @@
-learning about git
+thanks for teaching me git
